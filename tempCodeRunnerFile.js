@@ -1,0 +1,2 @@
+wish(john);
+// wish(peter);
